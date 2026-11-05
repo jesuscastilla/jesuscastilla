@@ -1,12 +1,17 @@
-<div align="center">
-
-# 🦕 Jesús Castilla · **DiploTech**
-
-**Desarrollador de Software** — Salobreña (Granada), España
-
-*Tecnología honesta, al servicio de las personas.*
-
-</div>
+<p align="center">
+  <svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jesús Castilla · DiploTech">
+    <defs>
+      <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#1F3320"/>
+        <stop offset="100%" stop-color="#4E8A3E"/>
+      </linearGradient>
+    </defs>
+    <rect width="800" height="150" rx="20" fill="url(#dg)"/>
+    <text x="50%" y="70" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="bold" fill="#F7F5EF" text-anchor="middle">Jesús Castilla</text>
+    <text x="50%" y="104" font-family="Arial, sans-serif" font-size="18" fill="#C9DCC2" text-anchor="middle">Desarrollador de Software · Fundador de DiploTech</text>
+    <text x="50%" y="128" font-family="Arial, sans-serif" font-size="13" fill="#9FB99A" text-anchor="middle">Tecnología honesta, al servicio de las personas — Salobreña (Granada)</text>
+  </svg>
+</p>
 
 <p align="center">
   <a href="https://diplotech.es"><img alt="Web" src="https://img.shields.io/badge/Web-diplotech.es-70B060?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
