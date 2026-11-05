@@ -8,13 +8,13 @@
     </defs>
     <rect width="800" height="150" rx="20" fill="url(#dg)"/>
     <text x="50%" y="70" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="bold" fill="#F7F5EF" text-anchor="middle">Jesús Castilla</text>
-    <text x="50%" y="104" font-family="Arial, sans-serif" font-size="18" fill="#C9DCC2" text-anchor="middle">Desarrollador de Software · Fundador de DiploTech</text>
-    <text x="50%" y="128" font-family="Arial, sans-serif" font-size="13" fill="#9FB99A" text-anchor="middle">Tecnología honesta, al servicio de las personas — Salobreña (Granada)</text>
+    <text x="50%" y="104" font-family="Arial, sans-serif" font-size="18" fill="#C9DCC2" text-anchor="middle">Software Developer · Founder of DiploTech</text>
+    <text x="50%" y="128" font-family="Arial, sans-serif" font-size="13" fill="#9FB99A" text-anchor="middle">Honest technology, in service of people — Salobreña (Granada), Spain</text>
   </svg>
 </p>
 
 <p align="center">
-  <a href="https://diplotech.es"><img alt="Web" src="https://img.shields.io/badge/Web-diplotech.es-70B060?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://diplotech.es"><img alt="Website" src="https://img.shields.io/badge/Website-diplotech.es-70B060?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:hola@diplotech.es"><img alt="Email" src="https://img.shields.io/badge/Email-hola%40diplotech.es-4E8A3E?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jesuscastillalacal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jesuscastillalacal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/jesuscastilla"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-jesuscastilla-1F3320?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -22,54 +22,54 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-Desarrollador **autodidacta** con más de una década de voluntariado. Construyo software de extremo a extremo —apps Android e iOS, web/PWA, backend e infraestructura— para la **Barrioteca Acalencá** y la asociación **Lebeche**, hoy en producción.
+**Self-taught** developer with over a decade of volunteering. I build software end to end —Android and iOS apps, web/PWA, backend and infrastructure— for the **Barrioteca Acalencá** community library and the **Lebeche** association, all in production today.
 
-> «El software debería comportarse como un buen mayordomo: discreto, atento, casi invisible.»
+> «Software should behave like a good butler: discreet, attentive, almost invisible.»
 
 ## 🧰 Stack
 
-| Plataforma | Tecnologías |
+| Platform | Technologies |
 |---|---|
 | 📱 Android | Kotlin · Jetpack Compose · CameraX · WorkManager · Firebase |
 | 🌐 Web | TypeScript · React · Vite · Tailwind · HTML/CSS |
 | 🍏 iOS | Swift · SwiftUI · WKWebView |
 | 🗄️ Backend | PHP · MariaDB · REST APIs · Docker |
-| 🐧 Sistemas | Linux · Nginx · Bash · Synology NAS |
+| 🐧 Systems | Linux · Nginx · Bash · Synology NAS |
 
-## 🚀 Proyectos en producción
+## 🚀 Projects in production
 
-| Proyecto | Descripción | Enlaces |
+| Project | Description | Links |
 |---|---|---|
-| **Barrioteca Acalencá** | Ecosistema completo de biblioteca vecinal: app Android, web/PWA, app iOS y backend | [Web](https://www.corrientelebeche.es/barrioteca/) · [Android](https://github.com/jesuscastilla/barrioteca-android) · [iOS](https://github.com/jesuscastilla/barrioteca-ios) · [Backend](https://github.com/jesuscastilla/barrioteca-slims) |
-| **Web oficial Lebeche** | Sitio estático indexable con panel de administración propio | [En vivo](https://www.corrientelebeche.es/lebeche/) · [Repo](https://github.com/jesuscastilla/lebeche-web) |
-| **TapeOS** | Sistema operativo libre basado en ChromeOS/ChromiumOS, hecho en Andalucía | [Repo](https://github.com/jesuscastilla/TapeOS) |
-| **Mondera's App** | CalDAV, correo, web y drive unificados para las organizadoras de Lebeche | [Repo](https://github.com/jesuscastilla/monderas-app) |
-| **Hackintosh Z590** | macOS Sonoma en hardware no-Apple (OpenCore, rEFInd, OCLP) | [Repo](https://github.com/jesuscastilla/hackintosh-Z590) |
+| **Barrioteca Acalencá** | Complete community-library ecosystem: Android app, web/PWA, iOS app and backend | [Web](https://www.corrientelebeche.es/barrioteca/) · [Android](https://github.com/jesuscastilla/barrioteca-android) · [iOS](https://github.com/jesuscastilla/barrioteca-ios) · [Backend](https://github.com/jesuscastilla/barrioteca-slims) |
+| **Lebeche official website** | Static, indexable site with its own admin panel | [Live](https://www.corrientelebeche.es/lebeche/) · [Repo](https://github.com/jesuscastilla/lebeche-web) |
+| **TapeOS** | Free-software operating system based on ChromeOS/ChromiumOS, made in Andalusia | [Repo](https://github.com/jesuscastilla/TapeOS) |
+| **Mondera's App** | CalDAV, mail, web and drive unified for Lebeche's organizers | [Repo](https://github.com/jesuscastilla/monderas-app) |
+| **Hackintosh Z590** | macOS Sonoma on non-Apple hardware (OpenCore, rEFInd, OCLP) | [Repo](https://github.com/jesuscastilla/hackintosh-Z590) |
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jesuscastilla&show_icons=true&theme=merko&hide_title=true&count_private=true">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuscastilla&layout=compact&theme=merko">
 </p>
 
-## 🤝 Voluntariado
+## 🤝 Volunteering
 
-Más de una década al servicio de las personas: **Federación Arco Iris** (2017–), **Fundación Cibervoluntarios** (2020–), **Amnistía Internacional** (2016–), **San Juan de Dios** (2020), **ACOGr** (2018) y **Greenpeace** (2014–2016).
+Over a decade in service of people: **Federación Arco Iris** (2017–), **Fundación Cibervoluntarios** (2020–), **Amnesty International** (2016–), **San Juan de Dios** (2020), **ACOGr** (2018) and **Greenpeace** (2014–2016).
 
 <details>
-<summary>📄 <b>Currículum (A4)</b></summary>
+<summary>📄 <b>Résumé (A4)</b></summary>
 <br>
 <ul>
-  <li><a href="https://diplotech.es/curriculum.html">Ver en la web</a></li>
-  <li><a href="https://diplotech.es/curriculum.pdf">Descargar PDF</a></li>
+  <li><a href="https://diplotech.es/curriculum.html">View online</a></li>
+  <li><a href="https://diplotech.es/curriculum.pdf">Download PDF</a></li>
 </ul>
 </details>
 
 ---
 
 <p align="center">
-  <sub>© 2026 Jesús Castilla · <a href="https://diplotech.es">DiploTech</a> · Hecho con 🦕 y ☕ en Salobreña</sub>
+  <sub>© 2026 Jesús Castilla · <a href="https://diplotech.es">DiploTech</a> · Made with 🦕 and ☕ in Salobreña</sub>
 </p>
